@@ -784,7 +784,7 @@
         padding-left: 10px;
     }
     .form-validator{
-        width: 345px !important;
+        width: 100% !important;
     }
     /* .form-name{
         width: 200px;
